@@ -27,7 +27,7 @@
   {
     "id": "npmsearch",
     "name": "NPM search",
-    "schema": "https://github.com/ChatGPTNextWeb/NextChat-Awesome-Plugins/blob/main/plugins/npmsearch/openapi.json"
+    "schema": "https://ghp.ci/https://raw.githubusercontent.com/ChatGPTNextWeb/NextChat-Awesome-Plugins/main/plugins/npmsearch/openapi.json"
   },
   {
     "id": "webpilot",
@@ -37,6 +37,6 @@
   {
     "id": "wolframalpha",
     "name": "WolframAlpha",
-    "schema": "https://github.com/ChatGPTNextWeb/NextChat-Awesome-Plugins/blob/main/plugins/wolframalpha/openapi.json"
+    "schema": "https://ghp.ci/https://raw.githubusercontent.com/ChatGPTNextWeb/NextChat-Awesome-Plugins/main/plugins/wolframalpha/openapi.json"
   }
 ]
