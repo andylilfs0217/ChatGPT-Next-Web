@@ -13,5 +13,30 @@
     "id": "duckduckgolite",
     "name": "DuckDuckGoLiteSearch",
     "schema": "https://ghp.ci/https://raw.githubusercontent.com/ChatGPTNextWeb/NextChat-Awesome-Plugins/main/plugins/duckduckgolite/openapi.json"
+  },
+  {
+    "id": "chatpdf",
+    "name": "Chat PDF GPT",
+    "schema": "https://ghp.ci/https://raw.githubusercontent.com/ChatGPTNextWeb/NextChat-Awesome-Plugins/main/plugins/chatpdf/openapi.json"
+  },
+  {
+    "id": "gapier",
+    "name": "Gapier",
+    "schema": "https://a.gapier.com/free"
+  },
+  {
+    "id": "npmsearch",
+    "name": "NPM search",
+    "schema": "https://github.com/ChatGPTNextWeb/NextChat-Awesome-Plugins/blob/main/plugins/npmsearch/openapi.json"
+  },
+  {
+    "id": "webpilot",
+    "name": "Web pilot",
+    "schema": "https://gpts.webpilot.ai/gpts-openapi.yaml"
+  },
+  {
+    "id": "wolframalpha",
+    "name": "WolframAlpha",
+    "schema": "https://github.com/ChatGPTNextWeb/NextChat-Awesome-Plugins/blob/main/plugins/wolframalpha/openapi.json"
   }
 ]
